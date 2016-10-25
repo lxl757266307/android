@@ -46,7 +46,6 @@ public class OkhttpActivity extends AppCompatActivity {
         imageView = (ImageView) findViewById(R.id.img);
         String img = "http://pic51.nipic.com/file/20141022/19779658_171157758000_2.jpg";
 
-        String uri = "http://192.168.3.129:8080/start/servlet/Login?";
 
          // 如果说 你要使用 OKHTTP
          /*
